@@ -1,0 +1,40 @@
+.menuheader {
+  width: 100%;
+  height: 3rem;
+}
+
+.menuheader ul li {
+  list-style-type: none;
+  padding: 10px 20px;
+  border-right: 2px solid rgb(200, 200, 200);
+}
+
+.menuheader ul {
+  display: flex;
+  height: 3rem;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+.activeLink {
+  color: rgb(209, 238, 22); /* Color for active link */
+}
+
+.last{
+  color: #ffffff;
+}
+
+.last:hover {
+  color: #ffc94e;
+}
+
+.last:active {
+  color: #ffb200;
+}
+
+
+.menuheader ul li.noborder {
+  border: none;
+}

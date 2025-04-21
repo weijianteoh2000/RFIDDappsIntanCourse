@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rfiddapp/static/css/main.6e45480d.css",
+    "main.js": "/rfiddapp/static/js/main.f59cf394.js",
+    "static/js/27.da63cb99.chunk.js": "/rfiddapp/static/js/27.da63cb99.chunk.js",
+    "static/media/background.jpg": "/rfiddapp/static/media/background.3df54ffbec48c3e0e66a.jpg",
+    "static/media/unavailable-status.png": "/rfiddapp/static/media/unavailable-status.5f7df3cccf2181f82a31.png",
+    "static/media/available-status.png": "/rfiddapp/static/media/available-status.dd03bd655de2e88c9122.png",
+    "static/media/pending-status.png": "/rfiddapp/static/media/pending-status.9cd18c20ff394ab1adf5.png",
+    "static/media/logo-intan-edited.png": "/rfiddapp/static/media/logo-intan-edited.87365066edadce6fe7b9.png",
+    "static/media/checkinItems.png": "/rfiddapp/static/media/checkinItems.8555bc0b92923be90b60.png",
+    "static/media/active.png": "/rfiddapp/static/media/active.bb4eb525acd9f1ce0823.png",
+    "static/media/activeLocation.png": "/rfiddapp/static/media/activeLocation.331fe5cdf4552e29f00f.png",
+    "static/media/move.png": "/rfiddapp/static/media/move.5a24f98627f5c3a6c88c.png",
+    "index.html": "/rfiddapp/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6e45480d.css",
+    "static/js/main.f59cf394.js"
+  ]
+}
